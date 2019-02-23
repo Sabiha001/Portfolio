@@ -1,0 +1,58 @@
+h1{
+	font-size: 600%
+}
+
+h1{
+	font-family:georgia;
+}
+
+h1{
+	text-align: center;
+}
+h2{
+	font-size: 600%; text-align: center;
+}
+
+button{
+	font-size: 100%; text-align: center; align-content: center; position:relative; color: black; background-color: white; border: 2px solid black;
+	font-family: Comic Sans MS; padding: 10px 25px; border-radius: 5px;
+}
+
+p{
+	font-size: 200%;
+}
+
+h3{
+	font-size: 600%; text-align: center; font-family: Comic Sans MS;
+}
+
+#Gallary{
+	font-size: 600%;
+}
+
+h4{
+font-size: 600%; text-align: center; font-family: Comic Sans MS; border: 2px solid black; border-left-width: 400;border-right-width: 400; border-radius: 20px;
+border-style: dotted; margin: 25px 400px 75px 400px;
+}
+
+pre{
+	font-size: 200%; text-align: center;position: relative;
+}
+
+ul{
+text-align: center;position: relative;
+}
+
+h5{
+font-size: 600%; text-align: center; font-family: Comic Sans MS; border: 2px solid black; border-left-width: 400;border-right-width: 400; border-radius: 100px;border-style: ridge;	
+border-color: blue; background-color: green; margin: 25px 400px 75px 400px;
+}
+
+img{
+	align-items: center;
+}
+
+image{
+	margin-right: :200px;
+}
+
